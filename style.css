@@ -69,6 +69,8 @@ p {
   box-shadow: none;
   padding: 15px;
   color: hsl(31, 77%, 52%);
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
 .suvs-button {
   background-color: hsl(0, 0%, 95%);
@@ -76,6 +78,8 @@ p {
   border-color: hsl(0, 0%, 95%);
   box-shadow: none;
   padding: 15px;
+  margin-top: 30px;
+  margin-bottom: 20px;
   color: hsl(184, 100%, 22%);
 }
 .luxury-button {
@@ -84,5 +88,7 @@ p {
   border-color: hsl(0, 0%, 95%);
   box-shadow: none;
   padding: 15px;
+  margin-top: 30px;
+  margin-bottom: 20px;
   color: hsl(179, 100%, 13%);
 }
