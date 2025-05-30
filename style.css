@@ -4,7 +4,7 @@ Dark cyan: hsl(184, 100%, 22%)
 Very dark cyan: hsl(179, 100%, 13%)
 */
 
-/* body, main, section, article, img, h1, p, button  */
+/* body, main, section, article - .sedans, .suvs, .luxury, img, h1, p, button  */
 
 body {
 }
@@ -15,9 +15,14 @@ main {
 section {
 }
 
-article {
+.sedans {
 }
 
+.suvs {
+}
+
+.luxury {
+}
 img {
 }
 
