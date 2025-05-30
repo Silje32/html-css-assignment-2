@@ -9,6 +9,12 @@ Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
 /* body, main, section, article - .sedans, .suvs, .luxury, img, h1, p, 
 button - .sedans-button, .suvs-button, .luxury-button  */
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
 }
 
