@@ -6,7 +6,8 @@ Transparent white (paragraphs): hsla(0, 0%, 100%, 0.75)
 Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
 */
 
-/* body, main, section, article - .sedans, .suvs, .luxury, img, h1, p, button  */
+/* body, main, section, article - .sedans, .suvs, .luxury, img, h1, p, 
+button - .sedans-button, .suvs-button, .luxury-button  */
 
 body {
 }
