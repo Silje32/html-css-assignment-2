@@ -40,6 +40,10 @@ h1 {
 }
 
 p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
 }
 
 /* Button classes */
