@@ -19,6 +19,7 @@ body {
 }
 
 main {
+  min-height: 100svh;
 }
 
 section {
