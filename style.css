@@ -33,19 +33,19 @@ section {
 /* Article classes */
 .sedans {
   background-color: hsl(31, 77%, 52%);
-  max-height: 400px;
+  min-height: 400px;
   max-width: 200px;
   padding: 20px;
 }
 .suvs {
   background-color: hsl(184, 100%, 22%);
-  max-height: 400px;
+  min-height: 400px;
   max-width: 200px;
   padding: 20px;
 }
 .luxury {
   background-color: hsl(179, 100%, 13%);
-  max-height: 400px;
+  min-height: 400px;
   max-width: 200px;
   padding: 20px;
 }
